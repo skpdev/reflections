@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+-Git creates a .git file with confiuration and starts tracking that directory
+-You need to do it so that git knows it is a repository.

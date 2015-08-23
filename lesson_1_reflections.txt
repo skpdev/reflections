@@ -1,0 +1,19 @@
+It is best to use version control so that if there are typos in big files, you don't need to read the whole file to find the typo. 
+Diff or FC(on Windows) will show you the difference between two files
+use diff -u file1 file2
++ means addition
+- means removed
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- It would allow you to reverse any mistakes, and to restore to a previous version in case you get too far off track of what the original program is intended to do.
+- You wouldn't worry as much about making mistakes and would be able to try new things.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+-Being able to choose when to save gives you more flexibility and keeps you on your toes.
+-If saving was done automatically, you would not save as often, and could possibly make a huge error if you break the code and then it auto saves.
+
+How might using version control make you more confident to make changes that could break something?
+- You wouldn't have to worry as much that new code you introduce would destroy the project you are working on. You could simply checkout an older version of the code and start over.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+-To get through the ios dev course
